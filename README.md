@@ -1,2 +1,3 @@
 # Golang
-learning and saving golang code!
+Learning and Saving Golang code!
+Learning from Hitesh choudhary
